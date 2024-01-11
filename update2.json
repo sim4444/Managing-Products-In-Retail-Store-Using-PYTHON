@@ -1,0 +1,10 @@
+{
+    "name": "Lipstick",
+    "brand": "MAC",
+    "price": 39.99,
+    "packaging": "Tube",
+    "rating": 4.7,
+    "type": "Makeup",
+    "shade": "Black",
+    "waterproof": true
+}

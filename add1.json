@@ -1,0 +1,10 @@
+{
+    "name": "Toner",
+    "brand": "Neutrogena",
+    "price": 12.99,
+    "packaging": "Bottle",
+    "rating": 4.2,
+    "type": "Skincare",
+    "skin_type": "Oily",
+    "skin_concern": "Hyperpigmentation"
+}

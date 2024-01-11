@@ -1,0 +1,10 @@
+{
+    "name": "Toner",
+    "brand": "CeraVe",
+    "price": 19.99,
+    "packaging": "Bottle",
+    "rating": 4.4,
+    "type": "Skincare",
+    "skin_type": "Combination",
+    "skin_concern": "Hyperpigmentation"
+}
